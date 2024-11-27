@@ -25,8 +25,7 @@
    ```bash
    git clone https://github.com/yourusername/thala-calculator.git
 3.Enter this command: ```cd thala-calculator
-4.Run this through: 
-```python thala_calculator.py
+4.Run this through: ```python thala_calculator.py```
 
 #About Contribution
 Feel free to fork this project, create issues, and submit pull requests if you would like to improve or add new checks to make it even more "Thala"!
