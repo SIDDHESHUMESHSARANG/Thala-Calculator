@@ -23,7 +23,7 @@
 1. Open your Terminal/CMD
 2. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/thala-calculator.git
+   git clone https://github.com/SIDDHESHUMESHSARANG/thala-calculator.git
 3.Enter this command: ```cd thala-calculator```
 4.Run this through: 
 ```python thala_calculator.py```
