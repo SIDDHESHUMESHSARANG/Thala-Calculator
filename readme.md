@@ -28,5 +28,5 @@
 4.Run this through: 
 ```python thala_calculator.py```
 
-#About Contribution
+##About Contribution
 Feel free to fork this project, create issues, and submit pull requests if you would like to improve or add new checks to make it even more "Thala"!
